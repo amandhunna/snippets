@@ -1,2 +1,1 @@
-# snippets
-Practice code
+- using debounce in react for better performance of the application.
